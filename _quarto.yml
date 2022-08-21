@@ -1,0 +1,20 @@
+ipynb-filters: [nbdev_filter]
+
+project:
+  type: website
+
+website:
+  title: "test"
+  navbar:
+    left:
+      - testing.ipynb
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
