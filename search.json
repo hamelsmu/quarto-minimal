@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "testing.html",
+    "href": "testing.html",
+    "title": "test execution",
+    "section": "",
+    "text": "from IPython.display import Image\nImage(url=\"https://avatars.githubusercontent.com/u/20547620\", format='png', embed=True)"
+  }
+]
